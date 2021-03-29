@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: National player in Table Tennis, secured All India Rank 156 in Technothlon exam which was conducted by IIT Guwahati.
 
 
-<i>Follow me:</i><br>
+<i>Connect with me:</i><br>
 
-<a href="https://www.linkedin.com/in/jaahanava-joshi-10/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/jaahanava-joshi-10/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw0Nx0760SRHBU_-cIU2HFh9&ust=1617086228486000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjakOfx1O8CFQAAAAAdAAAAABAD" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/jaahanava/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/jaahanava.joshi.3/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
