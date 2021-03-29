@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about cricket,table tennis, social media, or politics.
 - 📫 How to reach me: jaahanavajoshi@gamil.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: National player in Table Tennis, secured All India Rank 156 in Techthlon exam.
+- ⚡ Fun fact: National player in Table Tennis, secured All India Rank 156 in Techthlon exam which was conducted by IIT Guwahati.
 -->
