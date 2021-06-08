@@ -40,3 +40,13 @@ Here are some ideas to get you started:
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+  
+<br><br>
+<h4 align="center">Top langs :tongue:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJ1006&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" height="250" /></p>
+<br><br>
+  
+<h2 align="center"> Github Statistics 📈 </h2>
+  
+<div align="center"> 
+  <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JJ1006&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=40" /></a></div>
