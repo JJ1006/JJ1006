@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-
+<p align="left"> <img   src="https://komarev.com/ghpvc/?username=JJ1006" alt="adi10hero" /> </p>
 <!--
 **JJ1006/JJ1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,29 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: National player in Table Tennis, secured All India Rank 156 in Technothlon exam which was conducted by IIT Guwahati.
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://twitter.com/jaahanava" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/jaahanava/" target="_blank" rel="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/jaahanava-joshi-10/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:jaahanavajoshi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-
-</p>
-
 ### Languages and Tools 🛠
-- 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/LuizCarlosAbbott/)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C| C++| Python | Javascript | Java   
+- 🌐 &nbsp; HTML | CSS 
+- 🐍 &nbsp; Selenium | Scikit-learn | Keras | Tkinter | Matplotlib | Hub
+- ☁ &nbsp; Google Cloud Platform | Netlify | Replit | GitHub Hosting 
+- 🔧 &nbsp; Github | PyCharm | Visual Studio code | Eclipse | Git | Code Blocks | Turbo C
   
 <br><br>
 <h4 align="center">Top langs :tongue:</h4>
@@ -50,3 +36,13 @@ Here are some ideas to get you started:
   
 <div align="center"> 
   <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JJ1006&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=40" /></a></div>
+  
+  <h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/jaahanava" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/jaahanava/" target="_blank" rel="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/jaahanava-joshi-10/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:jaahanavajoshi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+
+</p>
