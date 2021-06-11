@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌐 &nbsp; HTML | CSS 
 - 🐍 &nbsp; Selenium | Scikit-learn | Keras | Tkinter | Matplotlib | Hub
 - ☁ &nbsp; Google Cloud Platform | Netlify | Replit | GitHub Hosting 
-- 🔧 &nbsp; Github | PyCharm | Visual Studio code | Eclipse | Git | Code Blocks | Turbo C
+- 🔧 &nbsp; Github | PyCharm | Visual Studio Code | Eclipse | Git | Code Blocks | Turbo C
   
 <br><br>
 <h4 align="center">Top langs :tongue:</h4>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/jaahanava" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/jaahanava/" target="_blank" rel="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/jaahanava/" target="_blank" rel="noopener noreferrrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alphr.com%2Fgif-not-working-instagram%2F&psig=AOvVaw1jNGzDB9AHv--KbbIcvqFA&ust=1623477795575000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj6k570jvECFQAAAAAdAAAAABAD" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/jaahanava-joshi-10/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:jaahanavajoshi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
