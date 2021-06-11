@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-<p align="left"> <img   src="https://komarev.com/ghpvc/?username=JJ1006" alt="adi10hero" /> </p>
+
 <!--
 **JJ1006/JJ1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
