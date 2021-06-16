@@ -40,9 +40,9 @@ Here are some ideas to get you started:
   <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/jaahanava" target="_blank" rel="noopener noreferrer"><img src="https://cdn.dribbble.com/users/2652449/screenshots/14764078/twitter.gif" width="75" height="70" /></a>  
-&nbsp; <a href="https://www.instagram.com/jaahanava/" target="_blank" rel="noopener noreferrrer"><img src="https://media1.tenor.com/images/f26b2768c4f985a9349c3db3b2ef6a75/tenor.gif?itemid=12518165" width="75" height="70"/></a>  
-&nbsp; <a href="https://www.linkedin.com/in/jaahanava-joshi-10/" target="_blank" rel="noopener noreferrer"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" width="75" height="70" /></a>
-&nbsp; <a href="mailto:jaahanavajoshi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="75" height="70" /></a>
+&nbsp; <a href="https://twitter.com/jaahanava" target="_blank" rel="noopener noreferrer"><img src="https://cdn.dribbble.com/users/2652449/screenshots/14764078/twitter.gif" width="50" height="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/jaahanava/" target="_blank" rel="noopener noreferrrer"><img src="https://media1.tenor.com/images/f26b2768c4f985a9349c3db3b2ef6a75/tenor.gif?itemid=12518165" width="50" height="50"/></a>  
+&nbsp; <a href="https://www.linkedin.com/in/jaahanava-joshi-10/" target="_blank" rel="noopener noreferrer"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" width="50" height="50" /></a>
+&nbsp; <a href="mailto:jaahanavajoshi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" height="50" /></a>
 
 </p>
