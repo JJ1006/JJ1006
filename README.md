@@ -1,7 +1,7 @@
 <img width="35%" align="right" alt="Github" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" />
 
 
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **JJ1006/JJ1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
