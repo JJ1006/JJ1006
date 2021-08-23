@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; C| C++| Python | Javascript | Java   
 - 🌐 &nbsp; HTML | CSS 
-- 🐍 &nbsp; Selenium | Scikit-learn | Keras | Tkinter | Matplotlib | Hub | Pandas | Numpy
+- 🐍 &nbsp; Selenium | Scikit-learn | Keras | Tkinter | Matplotlib | Hub | Pandas | Numpy | OpenCV
 - ☁ &nbsp; Google Cloud Platform | Netlify | Replit | GitHub Hosting 
 - 🔧 &nbsp; Github | PyCharm | Visual Studio Code | Eclipse | Git | Code Blocks | Turbo C
   
